@@ -1,0 +1,17 @@
+{
+    "student1": {
+        "name": "Jenisha",
+        "age": 21,
+        "marks": 100
+    },
+    "student2": {
+        "name": "Aarav",
+        "age": 20,
+        "marks": 72
+    },
+    "student3": {
+        "name": "Maya",
+        "age": 22,
+        "marks": 91
+    }
+}
